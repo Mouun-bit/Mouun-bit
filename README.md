@@ -18,3 +18,12 @@ Feel free to reach out if you'd like to collaborate on a project, share ideas, o
 
 ---
 
+## My Stats:
+<div align = "center">
+
+![Mouun's Streak](https://github-readme-stats.vercel.app/api?username=Mouun&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![Mouun's Stats](https://github-readme-streak-stats.herokuapp.com/?user=Mouun&theme=cobalt&hide_border=false)
+
+
+</div>
+
